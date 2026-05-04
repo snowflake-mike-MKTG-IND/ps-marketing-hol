@@ -1,0 +1,21 @@
+CHANNEL_ID,CHANNEL_NAME,CHANNEL_TYPE,MEDIA_PILLAR
+1,Meta,Social,PAID
+2,TikTok,Social,PAID
+3,YouTube Ads,Video,PAID
+4,Reddit Ads,Social,PAID
+5,Twitch,Video,PAID
+6,Google SEM,Search,PAID
+7,DV360 Display,Programmatic,PAID
+8,Snap,Social,PAID
+9,X/Twitter Ads,Social,PAID
+10,Hulu CTV,CTV,PAID
+11,Roku CTV,CTV,PAID
+12,PlayStation Blog,Editorial,OWNED
+13,PlayStation.com,Web,OWNED
+14,PlayStation Email,Email,OWNED
+15,PS Store,Commerce,OWNED
+16,PlayStation App,App,OWNED
+17,Push Notifications,App,OWNED
+18,PlayStation YouTube,Social,OWNED
+19,PlayStation Instagram,Social,OWNED
+20,PlayStation TikTok,Social,OWNED

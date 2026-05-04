@@ -1,0 +1,31 @@
+TITLE_ID,TITLE_NAME,PUBLISHER,FIRST_PARTY,GENRE,ESRB,LAUNCH_DATE,IS_EXCLUSIVE
+1,Spider-Man 2,Sony Interactive Entertainment,True,Action-Adventure,T,2023-10-20,True
+2,Astro Bot,Sony Interactive Entertainment,True,Platformer,E10+,2024-09-06,True
+3,God of War Ragnarok,Sony Interactive Entertainment,True,Action-Adventure,M,2022-11-09,False
+4,Horizon Forbidden West,Sony Interactive Entertainment,True,Action-RPG,T,2022-02-18,False
+5,The Last of Us Part II Remastered,Sony Interactive Entertainment,True,Action-Adventure,M,2024-01-19,False
+6,Gran Turismo 7,Sony Interactive Entertainment,True,Racing,E,2022-03-04,True
+7,Ratchet & Clank Rift Apart,Sony Interactive Entertainment,True,Action-Adventure,E10+,2021-06-11,True
+8,Ghost of Yotei,Sony Interactive Entertainment,True,Action-Adventure,M,2025-10-02,True
+9,Wolverine,Sony Interactive Entertainment,True,Action-Adventure,M,2026-09-15,True
+10,Grand Theft Auto VI,Rockstar Games,False,Action-Adventure,M,2026-09-17,False
+11,Call of Duty: Black Ops 7,Activision,False,FPS,M,2025-11-14,False
+12,Battlefield 6,EA,False,FPS,M,2025-10-10,False
+13,Madden 26,EA,False,Sports,E,2025-08-14,False
+14,NBA 2K26,2K,False,Sports,E,2025-09-05,False
+15,EA Sports FC 26,EA,False,Sports,E,2025-09-26,False
+16,The Witcher 4,CD Projekt Red,False,Action-RPG,M,2027-01-01,False
+17,Borderlands 4,2K,False,FPS-Looter,M,2025-09-23,False
+18,Mafia: The Old Country,2K,False,Action-Adventure,M,2025-08-08,False
+19,Helldivers 2,Sony Interactive Entertainment,True,Shooter,M,2024-02-08,False
+20,Stellar Blade,Sony Interactive Entertainment,True,Action,M,2024-04-26,False
+21,Concord,Sony Interactive Entertainment,True,Shooter,T,2024-08-23,False
+22,Rise of the Ronin,Sony Interactive Entertainment,True,Action-RPG,M,2024-03-22,True
+23,LEGO Horizon Adventures,Sony Interactive Entertainment,True,Action-Adventure,E10+,2024-11-14,False
+24,Death Stranding 2,Sony Interactive Entertainment,True,Action,M,2025-06-26,True
+25,Marvel Rivals,NetEase,False,Hero Shooter,T,2024-12-06,False
+26,Black Myth Wukong,Game Science,False,Action-RPG,M,2024-08-20,False
+27,Final Fantasy VII Rebirth,Square Enix,False,Action-RPG,T,2024-02-29,False
+28,Dragon Ball Sparking Zero,Bandai Namco,False,Fighting,T,2024-10-11,False
+29,Silent Hill 2 Remake,Konami,False,Horror,M,2024-10-08,False
+30,Resident Evil 9,Capcom,False,Horror,M,2026-02-27,False
