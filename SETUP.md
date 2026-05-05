@@ -3,8 +3,8 @@
 ## Pre-Lab Checklist (30 minutes before start)
 
 ### 1. Snowflake Account Access
-- Account: `SFSENORTHAMERICA-DEMO525`
-- Role: `ACCOUNTADMIN` (or a dedicated HOL role with grants below)
+- Account: `FKB32186`
+- Role: `PUBLIC` (or a dedicated HOL role with grants below)
 - Warehouse: Any XS warehouse will work for this lab (Section 4 Python cells run locally, not on warehouse)
 
 ### 1b. Python Environment (for Section 4)
